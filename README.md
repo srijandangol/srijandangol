@@ -6,7 +6,7 @@
 
 
 - I'm  **Learner** | **Programmer** | **AI & ML Enthusiast**
-- Currently Learning **Python**,**C++**,**C#**, **Web Development**,**Software Development** And **Machine Learning**
+- Currently Learning **Python**, **C++**, **C#**, **Web Development**,**Software Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
 
