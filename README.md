@@ -5,7 +5,7 @@
 </p>
 
 
-- I'm  **Learner** | **Programmer** | **AI & ML Enthusiast**
+- I'm  **Learner** | **Programmer** | **AI & ML Enthusiast** | **Data Enthusiast**
 - Currently Learning **Python**, **C++**, **C#**, **Web Development**,**Software Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
 
