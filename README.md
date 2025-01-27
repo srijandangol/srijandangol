@@ -6,8 +6,8 @@
 
 
 - I'm a **Computer Enigneer**| **Learner** | **Programmer** |  **QA Enginner**  | **AI & ML Enthusiast** | **Data Enthusiast**
-- Currently Learning **Python**, **C++**, **C#**, **Web Development**,**Software Development** And **Machine Learning**
-- I'm currently training in **Data Science**, **Machine Learning** and **Artificial Intelligent** using python
+- Currently Learning **Python**,  **React Js**, **Vue Js+**,**C++**, **C#**, **Web Development**,**Software Development** And **Machine Learning**
+- I'm currently working as  **Front End Developer**,
 - Willing to contribute more and more in **Open Source Projects**
 
 
