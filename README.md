@@ -5,7 +5,7 @@
 </p>
 
 
-- I'm a **Computer Enigneer**| **Learner** | **Programmer** |  **QA Enginner**  | **AI & ML Enthusiast** | **Data Enthusiast**
+- I'm a **Computer Engineer**| **Front End Develope**| **Learner** | **Programmer** |  **QA Enginner**  | **AI & ML Enthusiast** | **Data Enthusiast**
 - Currently Learning **Python**,  **React Js**, **Vue Js+**,**C++**, **C#**, **Web Development**,**Software Development** And **Machine Learning**
 - I'm currently working as  **Front End Developer**,
 - Willing to contribute more and more in **Open Source Projects**
