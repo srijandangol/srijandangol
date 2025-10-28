@@ -83,6 +83,4 @@ I love creating clean, efficient code and translating designs into functional in
 
 ---
 
----
-
 ⭐️ *“Code is like humor — when you have to explain it, it’s bad.”*  
