@@ -84,7 +84,14 @@ I love creating clean, efficient code and translating designs into functional in
 ---
 
 ### 👀 Profile Views Counter  
-![Visitor Count](https://profile-counter.glitch.me/srijandangol/count.svg)
+---
+
+### 👀 Profile Views & Achievements  
+
+![Profile Views](https://komarev.com/ghpvc/?username=srijandangol&label=Profile%20views&color=0e75b6&style=flat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=srijandangol&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ---
 
