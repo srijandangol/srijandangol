@@ -18,7 +18,7 @@ I love creating clean, efficient code and translating designs into functional in
 
 ### 🛠️ Tech Stack  
 
-**Frontend:** React.js | Next.js | Vue.js | Nuxt.js | Angular | HTML5 | CSS3 | JavaScript (ES6+) | TypeScript | Bootstrap | Tailwind CSS | Material UI | Redux Toolkit | Vite  
+**Frontend:** Angular |  React.js |  Vue.js |  HTML5 | CSS3 | JavaScript (ES6+) | TypeScript | Bootstrap | Tailwind CSS | Material UI | Redux Toolkit | Vite  
 
 **Backend:** Node.js | Express.js | MySQL | Prisma ORM | MongoDB | RESTful APIs | Firebase | JWT Authentication  
 
